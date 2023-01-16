@@ -16,14 +16,13 @@
 ## Skills:
 * HTML/CSS
 * JavaScript (basic)
-* GIt 
-
-
+* Git 
 ***
 ## Experience:
 ***
 ## Education:
-* University: Samara State Technical University
+* University: Samara State Technical University.
 ***
+
 ## English:
-##### A1
+* A1 
