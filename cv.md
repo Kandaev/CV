@@ -8,6 +8,7 @@
 #### Phone: +79277333112 
 #### E-mail: egor.kandeavit@gmail.com
 #### Telegram: @KandaevEgor
+#### Location: Russia, Samara
 #### GitHub: [Kandaev](https://github.com/Kandaev)
 ***
 ### Briefly About Myself: 
