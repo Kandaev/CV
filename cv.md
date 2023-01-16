@@ -1,5 +1,3 @@
-## rsschool-cv
-***
 
 # Egor Kandaev
 ### Junior Frontend Developer
